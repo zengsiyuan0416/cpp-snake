@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u6211\u7684\u9879\u76EE\\\u86C7\u86C7\u5927\u4F5C\u62181.6\\\u6574\u5408\u4EE3\u7801\\snakegame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C200F0D8-7036-485D-832A-2EE557C94118}|\u6574\u5408\u4EE3\u7801.vcxproj|F:\\\u6211\u7684\u9879\u76EE\\\u86C7\u86C7\u5927\u4F5C\u62181.6\\\u6574\u5408\u4EE3\u7801\\snakegame\\\u6574\u5408\u4EE3\u7801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C200F0D8-7036-485D-832A-2EE557C94118}|\u6574\u5408\u4EE3\u7801.vcxproj|solutionrelative:\u6574\u5408\u4EE3\u7801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C200F0D8-7036-485D-832A-2EE557C94118}|\u6574\u5408\u4EE3\u7801.vcxproj|F:\\\u6211\u7684\u9879\u76EE\\\u86C7\u86C7\u5927\u4F5C\u62181.6\\\u6574\u5408\u4EE3\u7801\\snakegame\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C200F0D8-7036-485D-832A-2EE557C94118}|\u6574\u5408\u4EE3\u7801.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.h",
+              "DocumentMoniker": "F:\\\u6211\u7684\u9879\u76EE\\\u86C7\u86C7\u5927\u4F5C\u62181.6\\\u6574\u5408\u4EE3\u7801\\snakegame\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "F:\\\u6211\u7684\u9879\u76EE\\\u86C7\u86C7\u5927\u4F5C\u62181.6\\\u6574\u5408\u4EE3\u7801\\snakegame\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-07T01:58:49.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6574\u5408\u4EE3\u7801.cpp",
+              "DocumentMoniker": "F:\\\u6211\u7684\u9879\u76EE\\\u86C7\u86C7\u5927\u4F5C\u62181.6\\\u6574\u5408\u4EE3\u7801\\snakegame\\\u6574\u5408\u4EE3\u7801.cpp",
+              "RelativeDocumentMoniker": "\u6574\u5408\u4EE3\u7801.cpp",
+              "ToolTip": "F:\\\u6211\u7684\u9879\u76EE\\\u86C7\u86C7\u5927\u4F5C\u62181.6\\\u6574\u5408\u4EE3\u7801\\snakegame\\\u6574\u5408\u4EE3\u7801.cpp",
+              "RelativeToolTip": "\u6574\u5408\u4EE3\u7801.cpp",
+              "ViewState": "AgIAAFoFAAAAAAAAAAAowDMFAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-03T06:51:02.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
